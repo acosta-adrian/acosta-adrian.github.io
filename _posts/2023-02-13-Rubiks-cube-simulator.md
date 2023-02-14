@@ -21,4 +21,4 @@ There is both an unfolded visualization of the 6 faces of the rubiks cube as wel
 
 The 3d visualization took some creativity -- there is no 3d modelling :p rather the cube is constructed by shapes whose individual color updates with each turn.
 
-The excel file is uploaded at this Dropbox [link](https://www.dropbox.com/scl/fi/nnwb1gjeoduzayam84jur/Rubiks-Cube-Simulator.xlsm?dl=0&rlkey=lqtn6azjisgf35uobv07towu2).
+The excel file is uploaded at this [Dropbox link](https://www.dropbox.com/scl/fi/nnwb1gjeoduzayam84jur/Rubiks-Cube-Simulator.xlsm?dl=0&rlkey=lqtn6azjisgf35uobv07towu2).
