@@ -11,7 +11,7 @@ og_image: /assets/img/image.png
 
 I used to be obsessed with Rubik's cubes back in high school. I was never world class :p but after probably solving many thousands of Rubik's cubes I did get close to solving any scramble in ~11 seconds on average.
 
-At one point I actually took it as challenge to solve the worlds biggest rubik's cube (with dimensions of 121x121x121), which took me ~89h across several months. [You can read my blog post here about it from nearly a decade ago](https://www.speedsolving.com/threads/uwr-121x121x121-largest-solve-ever.44193). Such a large cube can't even really be practically built, so it's all done in a simulator. 
+At one point I actually took it as challenge to solve the worlds biggest rubik's cube (with dimensions of 121x121x121), which took me ~89h across several months. [You can read my blog post here about it from nearly a decade ago](https://www.speedsolving.com/threads/uwr-121x121x121-largest-solve-ever.44193). Such a large rubik's cube can't even really be practically built, so it's all done in a simulator. 
 
 You can probably tell that I'm often compelled to do things just for the challenge of it -- simulating a rubik's cube in excel is also really inefficient but it was fun to do just for the challenge.
 
