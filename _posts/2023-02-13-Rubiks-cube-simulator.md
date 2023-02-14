@@ -6,7 +6,7 @@ blurb: "Rubik's cube simulator in excel"
 og_image: /assets/img/image.jpg
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/image.jpg" | absolute_url }}" alt="screenshot of rubiks cube simulator in excel" class="post-pic"/>
 
 
 I used to be obsessed with Rubik's cubes back in high school. I was never world class :p but after probably solving many thousands of Rubik's cubes I did get close to solving one in ~11 seconds on average.
