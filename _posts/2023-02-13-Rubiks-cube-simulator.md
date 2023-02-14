@@ -3,10 +3,10 @@ layout: post
 title:  "Rubik's cube simulator in excel"
 date:   2023-02-13 13:01:40
 blurb: "Rubik's cube simulator in excel"
-og_image: /assets/img/image.jpg
+og_image: /assets/img/image.png
 ---
 
-<img src="{{ "/assets/img/image.jpg" | absolute_url }}" alt="screenshot of rubiks cube simulator in excel" class="post-pic"/>
+<img src="{{ "/assets/img/image.png" | absolute_url }}" alt="screenshot of rubiks cube simulator in excel" class="post-pic"/>
 
 
 I used to be obsessed with Rubik's cubes back in high school. I was never world class :p but after probably solving many thousands of Rubik's cubes I did get close to solving any scramble in ~11 seconds on average.
