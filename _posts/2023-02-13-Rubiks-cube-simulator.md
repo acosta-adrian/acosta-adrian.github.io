@@ -14,4 +14,4 @@ At one point I took it as challenge to solve the worlds biggest rubik's cube (wi
 
 I'm often compelled to do things just for the challenge of it. Simulating a rubik's cube in excel is really inefficient but it was fun to do. The buttons in the spreadsheet are linked to a macro written in VBA for excel.
 
-The excel file is uploaded at this dropbox link: [https://www.dropbox.com/scl/fi/nnwb1gjeoduzayam84jur/Rubiks-Cube-Simulator.xlsm?dl=0&rlkey=lqtn6azjisgf35uobv07towu2)]([https://www.speedsolving.com/threads/uwr-121x121x121-largest-solve-ever.44193](https://www.dropbox.com/scl/fi/nnwb1gjeoduzayam84jur/Rubiks-Cube-Simulator.xlsm?dl=0&rlkey=lqtn6azjisgf35uobv07towu2)
+The excel file is uploaded at this dropbox link: [https://www.dropbox.com/scl/fi/nnwb1gjeoduzayam84jur/Rubiks-Cube-Simulator.xlsm?dl=0&rlkey=lqtn6azjisgf35uobv07towu2)](https://www.dropbox.com/scl/fi/nnwb1gjeoduzayam84jur/Rubiks-Cube-Simulator.xlsm?dl=0&rlkey=lqtn6azjisgf35uobv07towu2)
