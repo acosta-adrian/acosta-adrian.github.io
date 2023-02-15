@@ -13,6 +13,6 @@ profile_picture:
    
   I'm always seeking challenges, open to learning new things, and driven to make an impact. <br><br> 
   
-  I'll periodically try to update personal projects outside of my job [here](https://acosta-adrian.github.io/blog).
+  I'll periodically try to update personal projects outside of my job here.
   
 </p>
