@@ -16,3 +16,14 @@ profile_picture:
   I'll periodically try to update personal projects outside of my job here.
   
 </p>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HBWYFE4L4H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HBWYFE4L4H');
+</script>
