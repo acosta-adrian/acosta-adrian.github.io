@@ -7,6 +7,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: # the subpath of the site
 url: "https://acosta-adrian.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
+google_analytics: "G-HBWYFE4L4H"
+
 
 header:
   pages:
@@ -27,8 +29,6 @@ footer:
       link: http://linkedin.com/in/acosta-adrian
     - name: GitHub
       link: http://github.com/acosta-adrian
-
-google_analytics: G-HBWYFE4L4H
 
 # Build settings
 markdown: kramdown
