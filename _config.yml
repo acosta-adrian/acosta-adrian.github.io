@@ -28,6 +28,8 @@ footer:
     - name: GitHub
       link: http://github.com/acosta-adrian
 
+google_analytics: G-HBWYFE4L4H
+
 # Build settings
 markdown: kramdown
 sass:
