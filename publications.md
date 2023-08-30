@@ -4,6 +4,11 @@ title: Publications
 slug: /publications
 ---
 
+<p style="font-size: 1.4em;">2023.</p><hr style="margin-bottom: 5 px;">
+
+<br/><span style="font-weight: bold">A Lamb wave magnetoelectric antenna design for implantable devices</span>.
+Ruoda Zheng, Victor Estrada, Nishanth Virushabadoss, Alexandria Will-Cole, <u>Adrian Acosta</u>, Jinzhao Hu, Wenzhong Yan, Jane P. Chang, Nian X. Sun, Rashaunda Henderson, Gregory P. Carman, Abdon E. Sepulveda. <i>Applied Physics Letters</i> 122, no. 20 (2023): 202901.
+
 <p style="font-size: 1.4em;">2022.</p><hr style="margin-bottom: 5 px;">
 
 <br/><span style="font-weight: bold">Magnetic state switching in FeGa microstructures</span>.
