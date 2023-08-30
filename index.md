@@ -7,13 +7,13 @@ profile_picture:
 
 <p>
     
-  I'm currently an Engineer at Lam Research in Fremont, CA. <br><br> 
+  I'm currently an Engineer at Lam Research in Fremont, CA. <br><br>
+
+  As part of Lam's rotation program, I have gotten exposure to process engineering, hardware product engineering, and data engineering roles.  <br><br> 
   
   Before this, I completed my PhD in Chemical Engineering at UCLA in June of 2022. <br><br> 
    
   I'm always seeking challenges, open to learning new things, and driven to make an impact. <br><br> 
-  
-  I'll periodically try to update personal projects outside of my job here.
-  
+
 </p>
 
