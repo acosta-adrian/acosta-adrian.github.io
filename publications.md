@@ -6,6 +6,9 @@ slug: /publications
 
 <p style="font-size: 1.4em;">2023.</p><hr style="margin-bottom: 5 px;">
 
+<br/><span style="font-weight: bold">Effect of thickness and surface composition on the stability of polarization in ferroelectric Hf<sub>x</sub>Zr<sub>1-x</sub>O<sub>2</sub> thin films</span>.
+<u>Adrian Acosta</u>, J. Mark P. Martirez, Norleakvisoth Lim, Jane P. Chang, and Emily A. Carter. <i>Physical Review Materials</i> 7, no. 11 (2023): XXXXXX.
+
 <br/><span style="font-weight: bold">Multilayering FeGa with NiFe and Al2O3 to enhance the soft magnetic properties</span>.
 <u>Adrian Acosta</u>, Emily Burnside, Kevin Fitzell, Gregory P. Carman, Jane P. Chang.
 <i>Applied Physics Letters</i> 123, no. 9 (2023): 092404.
