@@ -15,6 +15,7 @@ header:
     - name: Home
       slug: /
     - name: Publications
+    - name: Presentations
     - name: Blog
 
 footer:
