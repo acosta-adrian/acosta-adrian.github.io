@@ -3,7 +3,6 @@ layout: presentations
 title: Selected Research Presentations
 slug: /presentations
 ---
-<br/>
 
 <u>Adrian Acosta</u>, John Mark P. Martirez, Norleakvisoth Lim, Prof. Jane P. Chang, Prof. Emily A. Carter. "<b>Influence of thickness and surface composition on the stability of ferroelectric polarization in HfO<sub>2</sub></b>." _MRS Spring Meeting_, 2022.
 
