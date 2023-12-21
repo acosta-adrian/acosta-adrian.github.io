@@ -51,3 +51,9 @@ exclude:
 
 # Used for defeating caching
 version: 1
+
+
+style: |
+  img {
+    border: none; /* This removes the border around images */
+  }
