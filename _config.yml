@@ -28,8 +28,6 @@ footer:
   follow:
     - name: LinkedIn
       link: http://linkedin.com/in/acosta-adrian
-    - name: GitHub
-      link: http://github.com/acosta-adrian
 
 # Build settings
 markdown: kramdown
