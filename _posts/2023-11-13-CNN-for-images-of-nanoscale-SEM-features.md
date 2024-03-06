@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Convolutional neural network trained on nanoscale SEM images"
+title:  "Convolutional neural network trained on nanoscale SEM features"
 date:   2023-11-13 15:29:10
-blurb: "Convolutional neural network trained on nanoscale SEM images"
+blurb: "Convolutional neural network trained on nanoscale SEM features"
 og_image: /assets/img/image.png
 ---
 
