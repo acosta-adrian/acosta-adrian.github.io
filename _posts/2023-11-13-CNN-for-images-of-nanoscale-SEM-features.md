@@ -8,11 +8,11 @@ og_image: /assets/img/image.png
 
 <img src="{{ "/assets/img/image_2.png" | absolute_url }}" alt="demo of CNN model" class="post-pic"/>
 
-Link to Kaggle notebook for this project: https://www.kaggle.com/code/adrianacosta0/cnn-for-images-of-nanoscale-sem-features?scriptVersionId=157256158
+Link to Kaggle notebook for this project: [https://www.kaggle.com/code/adrianacosta0/cnn-for-images-of-nanoscale-sem-features?scriptVersionId=157256158](https://www.kaggle.com/code/adrianacosta0/cnn-for-images-of-nanoscale-sem-features?scriptVersionId=157256158)
 
 In this project, I explored the application of Convolutional Neural Networks (CNNs) to classify nanoscale features in Scanning Electron Microscope (SEM) images. 
 
-I started with a public set of SEM images of nanoscale features already categorized into various classes based on their features, such as particles, powder, biological structures, nanowires, and more. I sourced this dataset from here: https://www.nature.com/articles/sdata2018172
+I started with a public set of SEM images of nanoscale features already categorized into various classes based on their features, such as particles, powder, biological structures, nanowires, and more. I sourced this dataset from here: [https://www.nature.com/articles/sdata2018172](https://www.nature.com/articles/sdata2018172)
 
 The goal was to develop a supervised ML model that could automatically categorize SEM images into these prelabeled categories.
 
