@@ -8,16 +8,14 @@ og_image: /assets/img/image.png
 
 Link to Kaggle notebook for this project: [https://www.kaggle.com/code/adrianacosta0/data-science-for-semiconductor-process-reliability](https://www.kaggle.com/code/adrianacosta0/data-science-for-semiconductor-process-reliability)
 
-I set up this mini-tutorial to demonstrate:
+I set up this mini-tutorial to demonstrate simulating a CVD SiO2 growth process on a wafer, focusing on process reliability and variation across multiple chambers. The key steps include:
 
-1) Sets up a CVD reactor model for the growth of SiO2 in a process chamber.
+1) Process Simulation: Created a simplified model for deposition rate, incorporating various process parameters like pressure, temperature, and gas flow rates.
+2) Data Generation: Simulated data for 10 chambers processing 10 wafers each, including realistic hardware/sensor variations and an intentional outlier chamber.
+3) Visualization: Plotting deposition rates across wafers, revealing chamber-to-chamber variations.
+4) Principal Component Analysis (PCA): Applied PCA to visualize chamber clustering based on process conditions, effectively identifying the outlier chamber.
+5) Machine Learning for Variation Source: Implemented a Random Forest classifier to identify key input parameters explaining the variation between normal and outlier chambers.
+6) Drift Analysis: Introduced an artificial drift in deposition rate and analyzed its impact using PCA and sensor data visualization.
+7) Predictive Modeling: Used a Random Forest regressor to predict deposition rates and identify the most influential process parameters.
 
-The growth is affected by several key input parameters which have a corresponding sensor that monitors these inputs.
-
-As part of the exercise, we introduce variation in the process conditions to simulate chamber-to-chamber mismatch
-
-2) This sets us up to analyze sensor data from semiconductor deposition chambers to get to root causes of variations in wafer dep growth rates
-
-Utilizing techniques like Principal Component Analysis (PCA) helps us visualize and understand the underlying patterns in the data, while regression models enabled us to pinpoint the most influential factors impacting film thickness.
-
-3) Building on these insights, we introduced controlled systematic drifts to mimic real-world equipment issues, such as gradual clogging, and assessed their effects on the deposition process using regression.
+This project demonstrates the application of data science techniques toward semiconductor hardware and process reliability.
