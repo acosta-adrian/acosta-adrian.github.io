@@ -23,5 +23,3 @@ I set up this mini-tutorial to demonstrate simulating a CVD SiO2 growth process 
 6) Drift Analysis: Introduced an artificial drift in deposition rate and analyzed its impact using PCA and sensor data visualization.
     
 7) Predictive Modeling: Used a Random Forest regressor to predict deposition rates and identify the most influential process parameters.
-
-This project demonstrates the application of data science techniques toward semiconductor hardware and process reliability.
