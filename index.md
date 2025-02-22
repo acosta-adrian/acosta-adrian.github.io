@@ -11,7 +11,7 @@ profile_picture:
 
   Before that, I worked at Lam Research as a product engineeer on hardware and process engineering projects to help scale dry photoresist technology to HVM. <br><br>
 
-  My academic background is in Chemical Engineering, and I obtained my BS from The University of Arizona (2017) and a PhD from UCLA (2022). <br><br> 
+  My academic background is in Chemical Engineering -- I obtained my BS from The University of Arizona (2017) and a PhD from UCLA (2022). <br><br> 
    
   I'm always seeking challenges, open to learning new things, and driven to make an impact. <br><br> 
 
