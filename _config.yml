@@ -22,8 +22,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: adrianacosta@ucla.com
-      link: mailto:adrianacosta@ucla.com
+      value: adrianacosta@ucla.edu
+      link: mailto:adrianacosta@ucla.edu
 
   follow:
     - name: LinkedIn
