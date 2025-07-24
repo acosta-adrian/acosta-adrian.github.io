@@ -15,6 +15,7 @@ header:
     - name: Home
       slug: /
     - name: Publications
+    - name: Patents
     - name: Presentations
     - name: Blog
 
