@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: patents
 title: Patents
 slug: /patents
 ---
